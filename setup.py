@@ -7,6 +7,7 @@ setup(
     install_requires=[
         "selenium",
         "webdriver_manager",
+        "pandas",
     ],  # For this project we are using two external libraries
     # Make sure to include all external libraries in this argument
 )
